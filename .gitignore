@@ -3,6 +3,9 @@
 __pycache__
 *.o
 /*.jpg
+/*.png
+data/nerf_llff_data*
+data/nerf_synthetic*
 build*
 dist
 /.vscode
